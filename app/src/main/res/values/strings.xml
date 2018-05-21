@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FirebaseDB</string>
+    <string name="buttonDounut">Dounut</string>
+    <string name="buttonNugut">Nugut</string>
 </resources>
